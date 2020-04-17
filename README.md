@@ -1,4 +1,3 @@
 # This is the first ReadMe
 
-This file was modified locally
-
+This line was modified manaully during conflicts resulotion.
